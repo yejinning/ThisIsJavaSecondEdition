@@ -1,2 +1,1 @@
 # ThisIsJavaSecondEdition
-# ThisIsJavaSecondEdition
